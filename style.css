@@ -57,8 +57,10 @@ tfoot tr td{
 .XBox {
   background: red;
   font-size: 150px;
+  border-radius: 10px;
 }
 .OBox {
   background: green;
   font-size: 150px;
+  border-radius: 10px;
 }
