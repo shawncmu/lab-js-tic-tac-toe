@@ -53,3 +53,12 @@ tfoot tr td{
   background: #b8bdee;
   border-color: white;
 }
+
+.XBox {
+  background: red;
+  font-size: 150px;
+}
+.OBox {
+  background: green;
+  font-size: 150px;
+}
